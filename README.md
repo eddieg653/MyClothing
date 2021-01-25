@@ -15,7 +15,9 @@ January 22, 2021
 
 ### Description and functionality
 This website is for those who need new clothing. Whether they cannot fit their clothing or looking for something new, this website will help them find the piece of clothing they seek. Ranging from clothes for the gym, casual fit or leisure, this website will aid the user finding their favorite piece of clothing.
-The functionalities of the website include a filter feature that sorts gender, clothing type, size, color and price. Users will have the ability to mix and match the results they would like. Another functionality would include a payment system. The system will accept any kind of card payment from debit to credit, whether if it is Visa, MasterCard or an outlet store. When the user finds a product they like, they have the option to add the product to the card which will hold onto the product until the user has decide to check out. 
+
+The functionalities of the website include a filter feature that sorts gender, clothing type, size, color and price. Users will have the ability to mix and match the results they would like. Another functionality would include a payment system. The system will accept any kind of card payment from debit to credit, whether if it is Visa, MasterCard or an outlet store. When the user finds a product they like, they have the option to add the product to the card which will hold onto the product until the user has decide to check out.
+
 The store will include a search feature that will speed the user’s search in case they know what they are looking for. Once the search is done, the user will be allowed to view the product’s details. Details will include the fit suggestions for better comfort, extra features of the clothing explaining if they have pockets, zippers and stretch capabilities. Lastly, it will include washing instructions for each type of material.
 
 ### Users and Registration
