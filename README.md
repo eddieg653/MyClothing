@@ -2,11 +2,11 @@
 ### My 18-Week Project. An ASP.NET MVC Core Web Application for MSSA.
 
 ---
-
 Eddie Garcia
 MSSA CAD
 January 22, 2021
 
+---
 
 ## Clothing Store
 
