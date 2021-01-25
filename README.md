@@ -22,6 +22,7 @@ The store will include a search feature that will speed the user’s search in c
 
 ### Users and Registration
 Users will have the option to register for the website. To register, the user must create an account using their email, password, first and last name. Afterwards, the user will have the option to add their personal address for the website’s convenience to make the user’s purchase faster. Once the user has registered, they can add or change their address in case they move elsewhere. 
+
 Administrative accounts will only be given to the website owner and to whoever the owner chooses to possess the rights. Administrators have the option to change the price, remove a product and lock the website in case of maintenance. 
 Reference: https://www.gymshark.com
 
