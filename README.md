@@ -3,11 +3,9 @@
 
 ---
 
-Eddie Garcia
-
-MSSA CAD
-
-January 22, 2021
+Eddie Garcia <br />
+MSSA CAD <br />
+January 22, 2021 <br />
 
 ---
 
