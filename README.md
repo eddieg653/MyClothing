@@ -13,7 +13,7 @@ January 22, 2021
 Project Step 2
 Concept of Website
 
-Clothing Store
+## Clothing Store
 
 ### Description and functionality
 This website is for those who need new clothing. Whether they cannot fit their clothing or looking for something new, this website will help them find the piece of clothing they seek. Ranging from clothes for the gym, casual fit or leisure, this website will aid the user finding their favorite piece of clothing.
