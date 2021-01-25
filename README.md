@@ -39,6 +39,4 @@ Once the user has registered, they can add or change their address in case they 
 Administrative accounts will only be given to the website owner and to whoever the owner chooses to possess the rights.
 Administrators have the option to change the price, remove a product and lock the website in case of maintenance. 
 Reference: https://www.gymshark.com
-   *life
-     *life
 
