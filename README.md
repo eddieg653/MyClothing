@@ -39,4 +39,4 @@ Administrators have the option to change the price, remove a product and lock th
 
 Reference: https://www.gymshark.com
 
-[Database Diagram](MyClothingStore (1))
+[Database Diagram](My%20Clothing%20Store%20(1).pdf)
